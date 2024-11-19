@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "HK Grotesk";
+  src: url("path-to-your-font-file.woff2") format("woff2"),
+    url("path-to-your-font-file.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
